@@ -2,7 +2,20 @@
 
 ## Introduction
 
-I am pleased to announce my recent involvement in the first [HackAPrompt](https://www.aicrowd.com/challenges/hackaprompt-2023) challenge, organized by [Learn Prompting](https://learnprompting.org/), on [AICrowd](https://www.aicrowd.com/) platform and [HuggingFace playground](https://huggingface.co/spaces/jerpint-org/hackaprompt). The event was conducted from the 6th of May until the 4th of June 2023. I am thrilled to disclose that I secured the 11th position out of an impressive pool of over 2600+ competitors. Viewing this as an avenue for personal and professional growth, I took the initiative to compile and share the strategies and notions I employed during this period of intense commitment.
+I am pleased to announce my recent involvement in the first [HackAPrompt](https://www.aicrowd.com/challenges/hackaprompt-2023) challenge, organized by [Learn Prompting](https://learnprompting.org/), on [AICrowd](https://www.aicrowd.com/) platform and [HuggingFace playground](https://huggingface.co/spaces/jerpint-org/hackaprompt).
+
+The event was conducted from the 6th of May until the 4th of June 2023. I am thrilled to disclose that I secured the 11th position out of an impressive pool of over 2600+ competitors. Viewing this as an avenue for personal and professional growth, I took the initiative to compile and share the strategies and notions I employed during this period of intense commitment.
+
+## Model versions
+
+3 models were available on the challenge playground:
+
+* FlanT5-XXL
+* gpt-3.5-turbo
+* text-davinci-003
+
+I focused on the gpt-3.5-turbo model, which is the version 3.5 on GPT by OpenAI.
+gpt-3.5-turbo came out in 2023, stepping up from where openai-codex left off, and it's seriously faster and more accurate for generating code. It's pretty great for everything from natural language processing to machine learning.
 
 ## Process
 
@@ -134,4 +147,8 @@ So here is my final submission file:
 }
 ```
 
-It is necessary to mention that levels 2, 5, and 6 exhibit instability. The solution for level 2 in particular, succeeds approximately 10% of the time, as you can notice is on my custom json displayed earlier.
+It is necessary to mention that levels 2, 5, and 6 exhibit instability. The solution for level 2 in particular, succeeds approximately 10% of the time, as you can notice is on my custom JSON displayed earlier.
+
+## Strategies
+
+Tout au long du challenge, j'ai utilisé divers stratégies pour obtenir ce que je voulais de GPT 
