@@ -150,4 +150,6 @@ It is necessary to mention that levels 2, 5, and 6 exhibit instability. The solu
 
 ## Strategies
 
-Tout au long du challenge, j'ai utilisé divers stratégies pour obtenir ce que je voulais de GPT 
+Throughout the challenge, I utilized various strategies to achieve what I wanted from gpt-3.5-turbo. I will list and explain them below.
+
+### Copy of the Instruction Syntax
