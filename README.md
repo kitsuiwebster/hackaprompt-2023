@@ -14,8 +14,7 @@ The event was conducted from the 6th of May until the 4th of June 2023. I am thr
 * gpt-3.5-turbo
 * text-davinci-003
 
-I focused on the gpt-3.5-turbo model, which is the version 3.5 on GPT by OpenAI.
-gpt-3.5-turbo came out in 2023, stepping up from where openai-codex left off, and it's seriously faster and more accurate for generating code. It's pretty great for everything from natural language processing to machine learning.
+I focused on the gpt-3.5-turbo model. gpt-3.5-turbo came out in 2023, stepping up from where openai-codex left off, and it's seriously faster and more accurate for generating code. It's pretty great for everything from natural language processing to machine learning.
 
 ## Process
 
