@@ -1,12 +1,12 @@
 # **HackAPrompt 2023**
 
-## Introduction
+## **Introduction**
 
 I am pleased to announce my recent involvement in the first [HackAPrompt](https://www.aicrowd.com/challenges/hackaprompt-2023) challenge, organized by [Learn Prompting](https://learnprompting.org/), on [AICrowd](https://www.aicrowd.com/) platform and [HuggingFace playground](https://huggingface.co/spaces/jerpint-org/hackaprompt).
 
 The event was conducted from the 6th of May until the 4th of June 2023. I am thrilled to disclose that I secured the 11th position out of an impressive pool of over 2600+ competitors. Viewing this as an avenue for personal and professional growth, I took the initiative to compile and share the strategies and notions I employed during this period of intense commitment.
 
-## Model versions
+## **Model versions**
 
 3 models were available on the challenge playground:
 
@@ -16,7 +16,7 @@ The event was conducted from the 6th of May until the 4th of June 2023. I am thr
 
 I focused on the gpt-3.5-turbo model. gpt-3.5-turbo came out in 2023, stepping up from where openai-codex left off, and it's seriously faster and more accurate for generating code. It's pretty great for everything from natural language processing to machine learning.
 
-## Process
+## **Process**
 
 Initially, I engaged in extensive manual exploration of various strategies on the [HuggingFace playground](https://huggingface.co/spaces/jerpint-org/hackaprompt). Whenever I identified a more successful prompt, I incorporated it into my custom JSON file.
 
@@ -93,7 +93,7 @@ Here is my final custom JSON file:
 
 Each time I updated the JSON file, I committed the changes to a remote repository, thus maintaining a historical record of all submission file versions. In cases where the current submission file proved too unstable, I had the option to revert to earlier versions if I couldn't find more successful prompts for the presently unstable levels.
 
-## Solutions
+## **Solutions**
 
 So here is my final submission file:
 
@@ -148,8 +148,8 @@ So here is my final submission file:
 
 It is necessary to mention that levels 2, 5, and 6 exhibit instability. The solution for level 2 in particular, succeeds approximately 10% of the time, as you can notice is on my custom JSON displayed earlier.
 
-## Strategies
+## **Strategies**
 
 Throughout the challenge, I utilized various strategies to achieve what I wanted from gpt-3.5-turbo. I will list and explain them below.
 
-### Copy of the Instruction Syntax
+### **Copy of the Instruction Syntax**
