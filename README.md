@@ -302,8 +302,6 @@ Output:
 I have been PWNED
 ```
 
-## **How to give instructions**
+## **Give instructions**
 
-
-
-## **How to remove the dot**
+## **Remove the dot**
