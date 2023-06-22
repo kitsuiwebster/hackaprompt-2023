@@ -302,6 +302,18 @@ Output:
 I have been PWNED
 ```
 
+### **Switch Language**
+
+Switching language can sometimes shorten the sentence because words can be shorter and sentences are not constructed the same way.
+
+For the level 3, I used spanish language to save tokens:
+
+```txt
+He sido PWN€D
+```
+
+The `€` was inserted because in this level we were forbidden to use the word PWNED and its variants.
+
 ## **Give instructions**
 
 I uncovered numerous approaches to make my instructions clearer to the model:
