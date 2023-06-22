@@ -301,3 +301,9 @@ Output:
 ```txt
 I have been PWNED
 ```
+
+## **How to give instructions**
+
+
+
+## **How to remove the dot**
