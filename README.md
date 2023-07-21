@@ -225,7 +225,9 @@ Ex of tasks to ignore:
 
 The fewer tokens a submitted prompt consumed, the more points it yielded. This allowed for differentiation in the point totals of participants who completed the same levels using the same model. Therefore, it was crucial to optimize the token cost of each prompt as much as possible. Below is the token calculation formula set by the organizers.
 
-level # _ (10,000 - tokens used) _ score multiplier For example, if you used ChatGPT to defeat level 3, and it took you 90 tokens, your score for this level would be 3 _ (10,000 - 90) _ 2.
+`level # * (10,000 - tokens used) * score multiplier`
+
+For example, if you used ChatGPT to defeat level 3, and it took you 90 tokens, your score for this level would be `3 * (10,000 - 90) * 2`
 
 Now let's see the strategies I used to save tokens.
 
